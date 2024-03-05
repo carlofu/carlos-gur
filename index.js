@@ -4,7 +4,7 @@ class CarlosGur {
       this.age = age;
       this.occupation = occupation;
       this.skills = [];
-      this.isHappy = true;
+      this.isHappy = false;
     }
   
     learnSkill(skill) {
